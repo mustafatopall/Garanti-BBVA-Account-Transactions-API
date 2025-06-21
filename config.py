@@ -1,0 +1,6 @@
+CLIENT_ID = "UYGULAMA_CLIENT_IDINIZ"
+CLIENT_SECRET = "UYGULAMA_CLIENT_SECRETINIZ"
+REDIRECT_URL = "https://sizin_kendi_sunucunuz/callback_endpointiniz"
+TOKEN_URL = "https://apis.garantibbva.com.tr/auth/oauth/v2/token"
+API_URL = "https://apis.garantibbva.com.tr/balancesandmovements/accountinformation/transaction/v1/gettransactions"
+SCOPE = "oob"
