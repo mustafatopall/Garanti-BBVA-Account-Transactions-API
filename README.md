@@ -82,7 +82,7 @@ Uygulama:
 ## 📁 Proje Yapısı
 
 ```
-garantibbva-islem-sorgulama/
+Garanti-BBVA-Account-Transactions-API/
 │
 ├── main.py              # Uygulamanın başlangıç dosyası
 ├── config.py            # API yapılandırma bilgileri
