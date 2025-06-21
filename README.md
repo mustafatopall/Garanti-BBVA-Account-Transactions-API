@@ -16,8 +16,8 @@ Bu proje, **Garanti BBVA API** üzerinden belirli hesaplara ait işlem geçmişi
 ### 1. Depoyu Klonlayın
 
 ```bash
-git clone https://github.com/kullaniciadi/garantibbva-islem-sorgulama.git
-cd garantibbva-islem-sorgulama
+git clone https://github.com/mustafatopall/Garanti-BBVA-Account-Transactions-API
+cd Garanti-BBVA-Account-Transactions-API
 ```
 
 ### 2. Sanal Ortam 
